@@ -4,3 +4,5 @@ Scripts to cut sprites or images containing animations (several repeated Pokémo
 Front_and_Back.py is made to cut animations related to pokemon's front and back sprites.
 
 Menu_Sprites.py is made to cut Menu sprites (the more pixelated ones).
+
+Type_Cutter.py is made to cut the type icons (use image as example).
